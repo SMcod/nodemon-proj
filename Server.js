@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require("./config/app");
+var app = require("./script/app");
 var debug = require("debug")("webproject:server");
 var http = require("http");
 
